@@ -1,14 +1,41 @@
-# About me
+# キレートサンダーについて
 
-**KRTSD-0823/KRTSD-0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 趣味✨
+- プログラミング
+- チャット(ネット)
+- ゲーム
 
-Here are some ideas to get you started:
+### 学んでいること📖
+- プログラミング(ネットで独学)
+- Github
+- 英語(学校)
+- その他IT関連
 
-- 🔭 I’m currently working on ... Programming
-- 🌱 I’m currently learning ... Github, Node.js, Python, English(School)
-- 👯 I’m looking to collaborate on ... None
-- 🤔 I’m looking for help with ... None
-- 💬 Ask me about ... None
-- 📫 How to reach me: ... E-mail,Discord
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... Game(Mario,MH3G & 4G)
+### 好きなゲーム🎮
+- モンスターハンター(4G,3G)
+- マリオメーカー
+- FPS、銃撃戦ゲーム(最近はKirka.io)
+
+### できるプログラミング言語ランキング💻
+|順位|言語|
+|:---|:---:|
+|1|Node.js|
+|2|Javascript|
+|3|HTML|
+|4|Python|
+|5|CSS|
+
+### モンハン4Gで好きな武器種ランキング⚔
+|順位|武器種|
+|:---|:---:|
+|1|チャージアックス|
+|2|ガンランス|
+|3|スラッシュアックス
+|4|操虫棍|
+|5|大剣|
+|6|太刀|
+|7|ハンマー|
+|8|ライトボウガン|
+|?|ランス|
+|?|ヘヴィボウガン|
+|?|弓|
