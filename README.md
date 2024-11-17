@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Programming
-- 🌱 I’m currently learning ... Node.js,Python,English(School)
-- 👯 I’m looking to collaborate on ... Make a suggestion
+- 🌱 I’m currently learning ... Github, Node.js, Python, English(School)
+- 👯 I’m looking to collaborate on ... None
 - 🤔 I’m looking for help with ... Science,Social Study
 - 💬 Ask me about ... None
 - 📫 How to reach me: ... E-mail,Discord
